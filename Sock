@@ -1,0 +1,7 @@
+Standard socket:
+  SOCK_STREAM: Data can only be sent and received by TCP protocol
+  SOCK_DGRAM: Data can only be sent and received by UDP protocol
+
+Raw Socket: It can send and receive data packets that are not processed by the kernel.
+
+https://www.cnblogs.com/cthon/p/9090562.html
